@@ -8,7 +8,7 @@ from fastapi.responses import JSONResponse, Response
 
 app = FastAPI()
 
-EMAIL = "23f@ds.study.iitm.ac.in"
+EMAIL = "23f2000372@ds.study.iitm.ac.in"
 PROTOCOL_VERSION = "2024-11-05"
 
 
